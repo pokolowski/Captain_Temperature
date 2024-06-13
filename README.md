@@ -20,7 +20,7 @@ Zdjęcie strony wyświetlanej na telewizorze
 ![Zdjecie z tendencja wzrostowa temperatury z jedna lokalizacja](https://github.com/pokolowski/kapitan-czujnik/blob/main/photos/kapitan.jpg?raw=true)
 
 Screen strony wraz z informacją o zapalonym świetle w serwerowni w lokalizacji Obłaczkowo
-![Zdjecie z tendencja wzrostowa temperatury z jedna lokalizacja](https://github.com/pokolowski/kapitan-czujnik/blob/main/photos/unnamed%20(1).png?raw=true)
+![Zdjecie z tendencja wzrostowa temperatury z jedna lokalizacja](https://github.com/pokolowski/Captain_Temperature/blob/main/photos/unnamed%20(1).png?raw=true)
 
 Screen strony - wszystkie światła zgaszone, temperatury w normie.
 ![Zdjecie z tendencja wzrostowa temperatury z jedna lokalizacja](https://github.com/pokolowski/kapitan-czujnik/blob/main/photos/unnamed.png?raw=true)
