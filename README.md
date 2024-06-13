@@ -7,6 +7,15 @@ Gdy temperature osiądnie następny próg kafelek lokalizacji podświetli się n
 
 Strona jest napisana za pomocą React.js oraz wyświetlana jest w godzinach pracy na telewizorze w dziale.
 
+
+## Wykresy
+
+Na stronie można wybrać zakres wyświetlanych danych pobranych z czujnika.
+ - Można wyświetlać ostatnie 20 minut wykresu (opcja "Na żywo")
+ - Można wyświetlać ostatnie 24 godziny wykresu (opcja "24h")
+ - Można wyświetlać ostatnie 3 dni wykresu (opcja "3 dni")
+ - Można wyświetlać wszystkie pobrane dane od uruchomienia (opcja "Wszystko")
+
 ## Raspberry wraz z czujnikiem Enviro+
 
 W serwerowniach znajduję się urządzenie Raspberry PI wraz z skonfigurowanym czujnikiem temperatury Enviro+. Na urządzeniu zainstalowane jest rozwiązanie Domoticz, które pobiera informację z czujnika i wystawia swoje API.
