@@ -1,6 +1,11 @@
 # Strona do wyświetlania temperatur w serwerowniach
 
-Strona za pomocą API oraz RaspberryPI i czujnika temperatury, sprawdza temperaturę w 3 serwerowniach znajdujących się w różnych lokalizacjach (Poznań, Września, Obłaczkowo). System ten służy do monitorowania przez dział na bieżąco temperatury jakie panują w serwerowniach. Strona jest napisana za pomocą React.js oraz wyświetlana jest w godzinach pracy na telewizorze w dziale.
+Strona za pomocą API oraz RaspberryPI i czujnika temperatury, sprawdza temperaturę w 3 serwerowniach znajdujących się w różnych lokalizacjach (Poznań, Września, Obłaczkowo). System ten służy do monitorowania przez dział na bieżąco temperatury jakie panują w serwerowniach.
+
+Różne lokalizacje mają różną wartość dla powiadomienia o podwyższonej temperaturze. Gdy pierwszy próg podwyższonej temperatury zostanie osiągnięty - kafelek z nazwą lokalizacji podświetli się na żółto. Znaczy to, że ktoś powinien się zainteresować skokiem temperatury.
+Gdy temperature osiądnie następny próg kafelek lokalizacji podświetli się na czerwono, oznaczając zagrożenie dla urządzeń wewnątrz serwerowni.
+
+Strona jest napisana za pomocą React.js oraz wyświetlana jest w godzinach pracy na telewizorze w dziale.
 
 ## Raspberry wraz z czujnikiem Enviro+
 
@@ -12,7 +17,7 @@ Moja Strona pobiera dane z API w odstępach czasowych i wyświetla te dane, a ta
 
 ## Czujnik światła
 
-Z API pobierana jest również ilość lumenów, dzięki czemu można sprawdzić czy światło w serwerowni zostało zgaszone :)  
+Z API pobierana jest również ilość lumenów, dzięki czemu można sprawdzić czy światło w serwerowni zostało zgaszone :) 
 
 ## Galeria
 
@@ -23,9 +28,9 @@ Screen strony wraz z informacją o zapalonym świetle w serwerowni w lokalizacji
 ![Zdjecie z tendencja wzrostowa temperatury z jedna lokalizacja](https://github.com/pokolowski/Captain_Temperature/blob/main/photos/unnamed%20(1).png?raw=true)
 
 Screen strony - wszystkie światła zgaszone, temperatury w normie.
-![Zdjecie z tendencja wzrostowa temperatury z jedna lokalizacja](https://github.com/pokolowski/kapitan-czujnik/blob/main/photos/unnamed.png?raw=true)
+![Zdjecie z tendencja wzrostowa temperatury z jedna lokalizacja](https://github.com/pokolowski/Captain_Temperature/blob/main/photos/unnamed%20(2).png?raw=true)
 
-Screen strony w pierwszej wersji z dodaną jedną lokalizacją (Poznań) - temperatura przekroczyła pierwszy próg ostrzeżenia.
-![Zdjecie z tendencja wzrostowa temperatury z jedna lokalizacja](https://github.com/pokolowski/Captain_Temperature/blob/main/photos/temperature_alert.png?raw=true)
+Screen strony - lokalizacja (Poznań) - temperatura przekroczyła pierwszy próg ostrzeżenia.
+![Zdjecie z tendencja wzrostowa temperatury z jedna lokalizacja](https://github.com/pokolowski/Captain_Temperature/blob/main/photos/temperature_alert?raw=true)
 
 
