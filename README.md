@@ -8,6 +8,10 @@ Gdy temperature osiądnie następny próg kafelek lokalizacji podświetli się n
 Strona jest napisana za pomocą React.js oraz wyświetlana jest w godzinach pracy na telewizorze w dziale.
 
 
+## Kod strony
+
+Ze względu na wrażliwe dane zdecydowałem się nie udostępniać kodu źródłowego. Jeśli pojawią się jakieś pytania chętnie na nie odpowiem w trakcie rozmowy :)
+
 ## Wykresy
 
 Na stronie można wybrać zakres wyświetlanych danych pobranych z czujnika.
