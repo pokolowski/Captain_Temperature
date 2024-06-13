@@ -12,11 +12,7 @@ Moja Strona pobiera dane z API w odstępach czasowych i wyświetla te dane, a ta
 
 ## Czujnik światła
 
-Z API pobierana jest również ilość lumenów, dzięki czemu można sprawdzić czy światło w serwerowni zostało zgaszone :) co również jest 
-
-## RESPONSYWNOŚĆ
-
-Strona nie jest responsywna gdyż została stworzona jedynie na potrzeby wyświetlania na telewizorze.
+Z API pobierana jest również ilość lumenów, dzięki czemu można sprawdzić czy światło w serwerowni zostało zgaszone :)  
 
 ## Galeria
 
